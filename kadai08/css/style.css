@@ -1,4 +1,5 @@
-*{margin: 0;padding: 0;box-sizing: border-box;}
-img{width: 200;}
-body{background-color: aliceblue;}
-h1{font-size: large;}
+*{margin: 0;padding: 0;box-sizing: border-box;font-style: normal;}
+body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;}
+img{width: 20;}
+h1{font-size: large;color: #ffff00;}
+nav{background-color: lightblue;}
