@@ -10,3 +10,4 @@ nav ul li.current a{color: #F33135;}
 nav ul li a:hover{color: #E7DA66;}
 .image-centainer{display: flex;justify-content: space-around;align-items: center;height: 100vh;}
 .image-centainer img{max-width: 30%;height: auto;}
+h2 h3 h4{font-size: 30px;}
