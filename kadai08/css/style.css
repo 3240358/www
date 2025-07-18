@@ -1,7 +1,1 @@
-*{box-sizing: border-box;font-style: normal;}
-body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;padding: auto;margin: 640px;}
-img{width: 100px;}
-h1{font-size: 30px}
-nav{background-color: lightblue;padding-top: 5px;padding-bottom: 5px;}
-nav ul{list-style: none;}
-nav li{width: 100px;height: 10px;margin-left: 5px;margin-right: 5px;padding: 5px;line-height: 38px;float: left;border: solid 1px skyblue;background: #6cc;}
+
