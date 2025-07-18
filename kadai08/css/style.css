@@ -1,11 +1,11 @@
 *{box-sizing: border-box;font-style: normal;}
-body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;padding: 0;margin: 0;}
+body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;padding: auto;margin: auto;}
 h1{font-size: 30px}
+img{width: 20;}
 nav{text-align: center;}
 nav ul{margin: 0 ;padding: 0 ;}
 nav ul li{list-style: none;display: inline-block;width: 18%;min-width: 90px;}
-nav ul li a{text-decoration: none;
-color: #333;}
+nav ul li a{text-decoration: none;}
 nav ul li.current a{color: #F33135;}
 nav ul li a:hover{color: #E7DA66;}
 .image-centainer{display: flex;justify-content: space-around;align-items: center;height: 100vh;}
