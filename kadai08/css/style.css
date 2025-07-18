@@ -1,6 +1,6 @@
 *{box-sizing: border-box;font-style: normal;}
 body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;padding: auto;margin: auto;}
-img{width: 50px;}
+img{width: 20px;}
 h1{font-size: 30px}
 nav{background-color: lightblue;padding-top: 5px;padding-bottom: 5px;}
 nav ul{list-style: none;}
