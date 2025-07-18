@@ -2,6 +2,10 @@
 body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;padding: auto;margin: 640px;}
 img{width: 100px;}
 h1{font-size: 30px}
-nav{background-color: lightblue;padding-top: 5px;padding-bottom: 5px;}
-nav ul{list-style: none;}
-nav li{width: 100px;height: 10px;margin-left: 5px;margin-right: 5px;padding: 5px;line-height: 38px;float: left;border: solid 1px skyblue;background: #6cc;}
+nav{text-align: center;}
+nav ul{margin: 0 ;padding: 0 ;}
+nav ul li{list-style: none;display: inline-block;width: 18%;min-width: 90px;}
+nav ul li a{text-decoration: none;
+color: #333;}
+nav ul li.current a{color: #F33135;}
+nav ul li a:hover{color: #E7DA66;}
