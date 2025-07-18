@@ -11,3 +11,5 @@ nav ul li a:hover{color: #E7DA66;}
 .image-centainer{display: flex;justify-content: space-around;align-items: center;height: 100vh;}
 .image-centainer img{max-width: 30%;height: auto;}
 h2 h3 h4{font-size: 30px;}
+main{clear: both;width: 620px;padding-top: 10px;padding-bottom: 10px;padding-left: 10px;}
+.foods{width: auto;padding: 10px;margin-top: 20px;margin-left: 20px;float: left;background-color: blanchedalmond;}
