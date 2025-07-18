@@ -1,5 +1,5 @@
 *{box-sizing: border-box;font-style: normal;}
-body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;padding: auto;margin: auto;}
+body{background-color: aliceblue;font-family: 'Courier New', Courier, monospace;padding: auto;margin: auto;width: 640px;}
 h1{font-size: 30px}
 img{width: 150px;height: auto;}
 nav{text-align: center;background-color: lightblue;}
