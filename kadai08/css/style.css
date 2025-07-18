@@ -4,7 +4,7 @@ h1{font-size: 30px}
 img{width: 150px;height: auto;}
 nav{text-align: center;background-color: lightblue;}
 nav ul{margin: 0 ;padding: 0 ;}
-nav ul li{list-style: none;display: inline-block;width: 18%;min-width: 90px;line-height: 38px;float: left;border: solid 1px brown;}
+nav ul li{list-style: none;display: inline-block;width: 18%;min-width: 90px;line-height: 38px;border: solid 1px brown;}
 nav ul li a{text-decoration: none;}
 nav ul li.current a{color: #F33135;}
 nav ul li a:hover{color: #E7DA66;}
